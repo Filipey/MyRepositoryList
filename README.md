@@ -16,6 +16,8 @@
  <a href="#autor">Autor</a>
 </p>
 
+<p align="center">Este projeto faz parte do Ignite da <a href="https://www.rocketseat.com.br/ignite" target='_blank'>RocketSeat </a> </p>
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
