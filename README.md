@@ -61,7 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85424389?s=400&u=417925037da99d2637c3714599830ae00c07c99a&v=4" width="100px;" alt=""/>
  <br />
   
- <sub><b> FlipeMoura</b></sub></a> <a href="#"title="Rocketseat">🚀</a>
+ <sub><b> Flipe Moura</b></sub></a>
 
 
 Feito com ❤️ por Filipe Moura 👋🏽 Entre em contato!
