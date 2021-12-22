@@ -3,10 +3,10 @@
 <p align="center">Primeiro aprendizado em ReactJS, consumindo a API do Github para listar os meus repositórios </p>
 
 
-<a href="https://github.com/Filipey/MyRepositoryList/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Filipey/MyRepositoryList"></a>
-<a href="https://github.com/Filipey/MyRepositoryList/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Filipey/MyRepositoryList"></a>
-<a href="https://github.com/Filipey/MyRepositoryList/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Filipey/MyRepositoryList"></a>
-<a href="https://github.com/Filipey/MyRepositoryList"><img alt="GitHub license" src="https://img.shields.io/github/license/Filipey/MyRepositoryList"></a>
+<a align="center" href="https://github.com/Filipey/MyRepositoryList/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Filipey/MyRepositoryList"></a>
+<a align="center" href="https://github.com/Filipey/MyRepositoryList/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Filipey/MyRepositoryList"></a>
+<a align="center" href="https://github.com/Filipey/MyRepositoryList/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Filipey/MyRepositoryList"></a>
+<a align="center" href="https://github.com/Filipey/MyRepositoryList"><img alt="GitHub license" src="https://img.shields.io/github/license/Filipey/MyRepositoryList"></a>
 
 <h4 align="center"> 
 	🚧  MyRepositoryList 🚀 Finalizado 🚧
@@ -31,7 +31,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Filipey/MyRepositoryList/>
+$ git clone https://github.com/Filipey/MyRepositoryList/
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd MyRepositoryList
