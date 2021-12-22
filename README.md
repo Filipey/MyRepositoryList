@@ -49,6 +49,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/documentation)
 
+### License
+
+MIT License ©
+
 ### Autor
 ---
 
@@ -61,3 +65,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Filipe Moura 👋🏽 Entre em contato!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeasm/)](https://www.linkedin.com/in/filipeasm/)
