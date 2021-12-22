@@ -65,4 +65,4 @@ MIT License ©
 
 Feito com ❤️ por Filipe Moura 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeasm/)](https://www.linkedin.com/in/filipeasm/)
+[![Linkedin Badge](https://img.shields.io/badge/-Filipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeasm/)](https://www.linkedin.com/in/filipeasm/)
